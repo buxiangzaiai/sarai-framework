@@ -1,1 +1,0 @@
-WeatherData = new Mongo.Collection('weather-data')

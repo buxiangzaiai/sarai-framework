@@ -14,8 +14,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
 
   var packages = [
-    "sarai:sarai-lib",
-    "sarai:sarai-clinic-data"
+    "sarai:sarai-lib"
   ]
 
   api.use(packages)
